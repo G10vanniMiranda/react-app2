@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  scroll-behavior: smooth; // Suavizar a rolagem
+}
+
+button{
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+input{
+  border: none;
+  outline: none;
+}
+
+a{
+  text-decoration: none;
+}
