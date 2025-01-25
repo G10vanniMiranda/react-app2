@@ -20,3 +20,16 @@ input{
 a{
   text-decoration: none;
 }
+
+.sumir{
+  display: none;
+}
+
+img{
+  transition: .8s;
+  cursor: pointer;
+}
+
+img:hover{
+  transform: scale(2.5);
+}

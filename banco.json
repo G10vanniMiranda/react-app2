@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Alienware",
+      "valor": "R$14.999,99",
+      "quantidade": 10,
+      "foto": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/alienware-m16-r2-intel/media-gallery/laptop-aw-m16r2-nt-bk-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=510&qlt=100,1&resMode=sharp2&size=510,402&chrss=full"
+    },
+    {
+      "id": 2,
+      "produto": "Asus",
+      "valor": "R$13.999,99",
+      "quantidade": 5,
+      "foto": "https://dlcdnwebimgs.asus.com/gain/f93bdd99-47d7-4f97-8800-5a83d0bd46a6/"
+    },
+    {
+      "id": "e8fa",
+      "produto": "Teclado Gamer",
+      "valor": "R$1.439,00",
+      "quantidade": "12",
+      "foto": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/keyboard/aw-pro-wireless-keyboard/media-galleries/dsom/keyboard-alienware-pro-bk-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=476&wid=1375&qlt=100,1&resMode=sharp2&size=1375,476&chrss=full"
+    }
+  ]
+}
